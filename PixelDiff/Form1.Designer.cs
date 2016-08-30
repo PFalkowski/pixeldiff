@@ -529,10 +529,8 @@ namespace PixelDiff
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new Size(76, 20);
             this.numericUpDown1.TabIndex = 27;
-            NumericUpDown arg_16BD_0 = this.numericUpDown1;
             int[] array = new int[4];
             array[0] = 70;
-            arg_16BD_0.Value = new decimal(array);
             this.checkBox2.AutoSize = true;
             this.checkBox2.Checked = true;
             this.checkBox2.CheckState = CheckState.Checked;
